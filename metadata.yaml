@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40860'
     url: http://www.gutenberg.org/2009/agents/40860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44449#Ruins-of-Ancient-Cities--Vol.-II-of-II-and-Present-Condition
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
