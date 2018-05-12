@@ -1,0 +1,27 @@
+_repo: Ruins-of-Ancient-Cities--Vol.-II-of-II-and-Present-Condition_44449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44449-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bucke, Charles
+    birthdate: 1781
+    deathdate: 1846
+    gutenberg_agent_id: '40860'
+    url: http://www.gutenberg.org/2009/agents/40860
+description: ''
+gutenberg_issued: '2013-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cities and towns, Ancient'
+- !lcc 'CB'
+title: "Ruins of Ancient Cities (Vol. 2 of 2)\r\nWith General and Particular Accounts\
+  \ of Their Rise, Fall, and Present Condition"
+url: http://www.gutenberg.org/ebooks/44449
